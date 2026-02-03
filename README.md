@@ -1,1 +1,1 @@
-# INVENTRA-Intelligent-Inventory-Management-System
+# Inventra_inventry_on_fashion_retail
