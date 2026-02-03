@@ -9,8 +9,6 @@ Inventra is a Java Full Stack web application designed to manage inventory effic
 - Backend: Java 17, Spring Boot
 - Database: MySQL
 - Architecture: MVC, REST APIs
-  🚀 Features
-##demo video --
 
 ## 👥 User Roles
 - Admin
